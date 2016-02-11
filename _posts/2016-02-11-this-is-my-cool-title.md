@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-11T16:03:50.313Z'
+datePublished: '2016-02-11T16:04:37.943Z'
 dateModified: '2016-02-11T16:03:05.752Z'
 title: This is my cool title
 author: []
