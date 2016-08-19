@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About Us
+    id: ea76b980-a500-4ef0-9a1c-d93d2dbd71fb
+    type: content
 favicon: null
 title: Power the Future
 purpose: []
